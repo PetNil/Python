@@ -18,3 +18,4 @@ It's a really nice course as a first step to learn Python.
 
 I will update with more files as I go along. Also explore branches.
 Todays first challenge is to update this file to my local repo.
+Success - Managed to add two more files from local repo and to update README.md to local repo. Now I'll update this text from local to remote.
