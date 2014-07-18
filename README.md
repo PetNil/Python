@@ -8,6 +8,9 @@ To begin with I have chosen:
 * romeo.txt - sample file for aove
 * ex10_1.py - a small file for counting emails in a larger sample file.
 * mbox-short.txt - sample file for above file
+Added:
+* ex7_2.py - small file for counting
+* ex10_2.py - ?
 
 ### Course for the files
 All files are the result of the Coursera course "Programming for Everybody" - with Dr. Chuck
