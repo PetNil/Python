@@ -4,13 +4,13 @@ A repository (repo) to learn more about Git and GitHub. Also to use it integrate
 I start with Python since it will be the most ueful language for programming Raspberry Pi and integrate with Arduino. I think it will be useful in the Statistical Toolbox couorse as well. Besides Git and GitHub, the most important thing will be to get a grip of R and RStudio
 ## Files in this repo so far
 To begin with I have chosen:
-* ex8_4.py - a small file for counting words in romeo.txt
+* ex8_4.py - make list of all words in romeo.txt
 * romeo.txt - sample file for aove
-* ex10_1.py - a small file for counting emails in a larger sample file.
+* ex10_1.py - counting emails from different persons in a larger sample file.
 * mbox-short.txt - sample file for above file
 Added:
-* ex7_2.py - small file for counting
-* ex10_2.py - ?
+* ex7_2.py - find certain numbers in text file and do average
+* ex10_2.py - same as ex10_1.py but sorted and pick default file if none is written
 
 ### Course for the files
 All files are the result of the Coursera course "Programming for Everybody" - with Dr. Chuck
