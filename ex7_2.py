@@ -1,5 +1,7 @@
 str = 'X-DSPAM-Confidence:'
+dfile = "mbox-short.txt"
 fname = raw_input('Enter filename: ')
+if len(fname) < 1 : fname = dfile
 try :
     fhand = open(fname)
 except :
